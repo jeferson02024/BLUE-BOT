@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="blue-bot.jpg" width="600">
+</p>
+
 # 🤖 BLUE Bot – WhatsApp
 
 Bot de WhatsApp criado para automação de mensagens e comandos.  
