@@ -29,7 +29,7 @@ pkg install ffmpeg -y
 ```
 4️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/jeferson02/BLUE-bot-.git
+git clone https://github.com/jeferson02024/BLUE-bot-.git
 ```
 5️⃣ Entrar na pasta do bot
 ```bash
